@@ -135,7 +135,6 @@ class draw_polyline:
 
 
 if __name__=='__main__':
-    print("Hello")
     master = Tk()
     canvas = Canvas(master, width=500, height=500)
     canvas.pack()
